@@ -16,12 +16,12 @@ Cloud-Native MX
     > [name=Victor Morales]
 4. Tema libre `30 min`
 
-- **Participantes:**
+5. Cierre `5 min`
+
+- **Lista de asistentes:**
     - Domingo Suarez (@domix)
     - Eduar Tua (@eduartua)
     - Victor Morales (@electrocucaracha)
-
-4. Cierre `5 min`
 
 :::
 
